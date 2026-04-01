@@ -1,1 +1,1 @@
-print("Resolved: main + feature1 changes")
+print("Hello from main branch")
