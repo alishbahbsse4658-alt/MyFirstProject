@@ -1,2 +1,1 @@
-print("Hello from Colab")
-print("Hello from GitHub")
+print("Hello from main branch")
